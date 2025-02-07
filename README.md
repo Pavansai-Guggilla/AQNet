@@ -48,8 +48,8 @@ pip install pandas numpy tensorflow scikit-learn matplotlib
 ### 📥 Installation & Usage
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Pavansai-Guggilla/AQNet.git
+cd AQNet
 ```
 2. **Run Data Preprocessing Notebook:**
 ```bash
